@@ -1,2 +1,1 @@
-my
-==
+This is a sample file for git process.....
